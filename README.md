@@ -2,6 +2,6 @@ RunCool is a game implemented in pure C++ for Windows Platform.No 3rd party libr
 
 The game also support simple local network functionality. Just modify the ServerIP.txt under the GameConfig folder.
 
-And the video is here. 
+And the video is here:http://v.youku.com/v_show/id_XOTMwODA5NjI0.html
 
 In fact, it it just a toy project.
