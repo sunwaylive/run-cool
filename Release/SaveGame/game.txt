@@ -1,24 +1,27 @@
 #1 Top Player Position
 92
-153
+120
 
 #2 Top Player Vertical Speed
--18
+-16
 
 #3 Top Barrier Size
-1
+2
 
 # Barrier Information: barrier_type, barrier's left top x , y
 1
-598
+20
+188
+1
+398
 188
 
 #4 Bottom Player Position
 92
-288
+280
 
 #5 Bottom Player Vertical Speed
-8
+7
 
 #6 Top Barrier Size
 0
@@ -26,8 +29,8 @@
 # Barrier Information: barrier_type, barrier's left top x, y
 
 #7 Current Score
-12.436
+9.426
 
 #8 Highest Score
-5.349
+16.703
 
