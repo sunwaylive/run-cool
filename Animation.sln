@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Animation", "Animation\Animation.vcxproj", "{568CB8A9-6741-419F-B3FD-F1E190A5FD60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{568CB8A9-6741-419F-B3FD-F1E190A5FD60}.Debug|Win32.ActiveCfg = Debug|Win32
+		{568CB8A9-6741-419F-B3FD-F1E190A5FD60}.Debug|Win32.Build.0 = Debug|Win32
+		{568CB8A9-6741-419F-B3FD-F1E190A5FD60}.Release|Win32.ActiveCfg = Release|Win32
+		{568CB8A9-6741-419F-B3FD-F1E190A5FD60}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
